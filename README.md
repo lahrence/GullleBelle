@@ -1,7 +1,4 @@
 # Documentation
-## **Important** 
-There has been a change in the way account numbers are stored. Use [this](https://numbergenerator.org/random-12-digit-number-generator#!start=false) to generate a 12 digit number and put it behind your existing account numbers.
-
 ## About
 A fake banking website for scambaiting copied as close to Kitboga's , "Gull and Bull", as possible.
 
